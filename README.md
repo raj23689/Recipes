@@ -1,2 +1,2 @@
 # Recipes
-SOmething That I created out of boredome.
+Something That I created out of boredome.
